@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "institution": "Udacity",
+        "course": "Full Stack Web Developer Nanodegree",
+        "graduation": "2022"
+    },
+    {
+        "id": 2,
+        "institution": "Daffodil International University",
+        "course": "Bachelor of Science in Computer Science and Engineering",
+        "graduation": "2019"
+    },
+    {
+        "id": 3,
+        "institution": "Daffodil International University",
+        "course": "Bachelor of Science in Computer Science and Engineering",
+        "graduation": "2019"
+    }
+]

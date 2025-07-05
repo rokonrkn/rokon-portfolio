@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Front-End Development",
+    "icon": "front(1).png",
+    "description": "Building the visual and interactive parts of websites using HTML, CSS, and JavaScript."
+  },
+  {
+    "id": 2,
+    "title": "Back-End Development",
+    "icon": "backend(1).png",
+    "description": "Managing the server, database, and logic for dynamic web apps using Node.js and Express."
+  },
+  {
+    "id": 3,
+    "title": "Database Management",
+    "icon": "db(1).png",
+    "description": "Designing and managing databases with MongoDB and SQL for efficient data storage."
+  },
+  {
+    "id": 4,
+    "title": "Version Control",
+    "icon": "web-design (1).png",
+    "description": "Using Git & GitHub for code collaboration, version tracking, and team workflows."
+  },
+  {
+    "id": 5,
+    "title": "API Integration",
+    "icon": "api (1).png",
+    "description": "Connecting applications via REST APIs for seamless data exchange and automation."
+  },
+  {
+    "id": 6,
+    "title": "UI/UX",
+    "icon": "ui (1).png",
+    "description": "Designing clean, user-friendly interfaces that enhance usability and experience."
+  }
+]
