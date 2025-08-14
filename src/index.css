@@ -1,7 +1,7 @@
 @import "tailwindcss";
 @plugin "daisyui";
 
-@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap'); */
 
 .inria-sans-light {
   font-family: "Inria Sans", sans-serif;
@@ -63,10 +63,12 @@ body {
 .items-liist::after {
   content: "";
   position: absolute;
-  bottom: 0; /* make it stick to the bottom */
-  left: -100%; /* start hidden to the left */
+  bottom: 0;
+  /* make it stick to the bottom */
+  left: -100%;
+  /* start hidden to the left */
   width: 100%;
-  height: 5px;  
+  height: 5px;
   background-color: #0c5841;
   border-radius: 5px;
   transition: left 0.3s ease-in-out;
@@ -146,6 +148,35 @@ body {
   font-size: 0.95rem;
 }
 
+.loader {
+  width: 60px;
+  height: 60px;
+  border: 6px solid #ddd;
+  /* Light grey */
+  border-top: 6px solid #3498db;
+  /* Blue top */
+  border-radius: 50%;
+  /* Makes it round */
+  animation: spin 1s linear infinite;
+}
 
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
 
+  100% {
+    transform: rotate(360deg);
+  }
+}
 
+.loader-child {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* Full screen height */
+  width: 100%;
+  /* Full width */
+}
