@@ -55,7 +55,7 @@ const SideBar = () => {
                     {
                         item.map(item => <Link key={item.id} to={item.link}>
                             <li className='items-liist flex gap-2   '>
-                                <img src={item.icon} alt="" />
+                                {/* <img src={item.icon} alt="" /> */}
                                 {item.name}
                             </li>
                         </Link>
