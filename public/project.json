@@ -1,0 +1,25 @@
+
+[
+  {
+    "id": 1,
+    "title": "Front-End Development",
+    "img": "/src/assets/img/2125.jpg",
+    "description": "Front-End Development is building the visual and interactive parts of websites using HTML, CSS, and JavaScript.Front-End Development is building the visual and interactive parts of websites using HTML, CSS, and JavaScript.",
+    "tools": ["React", "Vue", "Angular", "HTML5", "CSS3", "JavaScript", "TypeScript"]
+  },
+  {
+    "id": 2,
+    "title": "Back-End Development",
+    "img": "/src/assets/img/2125.jpg",
+    "description": "Front-End Development is building the visual and interactive parts of websites using HTML, CSS, and JavaScript.Front-End Development is building the visual and interactive parts of websites using HTML, CSS, and JavaScript.",
+    "tools": ["Node.js", "Express", "Django", "Flask", "Ruby on Rails", "PHP", "Java", "C#", "Go"]
+
+  },
+  {
+    "id": 3,
+    "title": "Database Management",
+    "img": "/src/assets/img/2125.jpg",
+    "description": "Front-End Development is building the visual and interactive parts of websites using HTML, CSS, and JavaScript.Front-End Development is building the visual and interactive parts of websites using HTML, CSS, and JavaScript.",
+    "tools": ["MongoDB", "MySQL", "PostgreSQL", "SQLite", "Redis", "Firebase", "Oracle DB", "Cassandra"]
+  }
+]
