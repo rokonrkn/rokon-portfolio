@@ -220,3 +220,16 @@ body {
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
+
+.react-tabs__tab-list {
+    border-bottom: none !important;
+    margin: 0 0 10px;
+    padding: 0;
+}
+.react-tabs__tab--selected {
+    background: #D4C9BE !important;
+    border-color: #aaa;
+    color: black;
+    border-radius: 5px 5px 5px 5px !important;
+    border-bottom: none !important;
+}
