@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 const Home = () => {
     return (
-        <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 items-center p-16'>
+        <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 items-center md:p-16 sm:p-10 gap-10'>
             <div className="intro-content ">
                 <h4 className='text-3xl'>Hello, My name is <span className='text-[#D4C9BE]'>Rokon.</span></h4>
                 <h4 className='text-2xl flex gap-2'>i’m a
