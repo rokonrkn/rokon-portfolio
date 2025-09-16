@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "title": "HTML",
+        "icon": "/src/assets/skills/html.png",
+        "catagory": "frontend"
+    },
+    {
+        "id": 2,
+        "title": "CSS",
+        "icon": "/src/assets/skills/css.png",
+        "catagory": "frontend"
+
+    },
+    {
+        "id": 3,
+        "title": "Tailwind CSS",
+        "icon": "/src/assets/skills/tailwind.png",
+        "catagory": "frontend"
+    },
+    {
+        "id": 4,
+        "title": "Bootstrap",
+        "icon": "/src/assets/skills/bootstrap.png",
+        "catagory": "frontend"
+    },
+    {
+        "id": 5,
+        "title": "JavaScript",
+        "icon": "/src/assets/skills/js.png",
+        "catagory": "frontend"
+    },
+    {
+        "id": 6,
+        "title": "React",
+        "icon": "/src/assets/skills/react.png",
+        "catagory": "frontend"
+    },
+    {
+        "id": 7,
+        "title": "Node.js",
+        "icon": "/src/assets/skills/node.png",
+        "catagory": "backend"
+    },
+    {
+        "id": 8,
+        "title": "Express.js",
+        "icon": "/src/assets/skills/express.png",
+        "catagory": "backend"
+    },
+    {
+        "id": 9,
+        "title": "MongoDB",
+        "icon": "/src/assets/skills/mongodb.png",
+        "catagory": "backend"
+    },
+    {
+        "id": 10,
+        "title": "React",
+        "icon": "/src/assets/skills/react.png",
+        "catagory": "frontend"
+    },
+    {
+        "id": 11,
+        "title": "Git",
+        "icon": "/src/assets/skills/git.png",
+        "catagory": "tools"
+        
+    },
+    {
+        "id": 12,
+        "title": "GitHub",
+        "icon": "/src/assets/skills/git.png",
+        "catagory": "tools"
+    },
+    {
+        "id": 13,
+        "title": "VS Code",
+        "icon": "/src/assets/skills/vs.png",
+        "catagory": "tools"
+    },
+    {
+        "id": 14,
+        "title": "Figma",
+        "icon": "/src/assets/skills/figma.png",
+        "catagory": "tools"
+    },
+    {
+        "id": 15,
+        "title": "Firebase",
+        "icon": "/src/assets/skills/firebase.png",
+        "catagory": "tools"
+    }
+]

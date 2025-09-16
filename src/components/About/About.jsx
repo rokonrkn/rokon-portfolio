@@ -35,9 +35,9 @@ const About = () => {
 
 
     return (
-        <div className='p-10'>
+        <div className='md:p-10'>
             <div className="page-name">
-                <h1 className='lg:text-3xl sm:text-2xl'>About Me</h1>
+                <h1 className='lg:text-3xl text-2xl'>About Me</h1>
                 <hr className='w-20' />
                 <hr className='mt-2 w-10' />
             </div>

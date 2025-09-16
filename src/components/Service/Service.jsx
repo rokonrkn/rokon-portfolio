@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 
 const Service = () => {
   const [services, setServices] = useState([]);
-  console.log(services);
+  // console.log(services);
 
   useEffect(() => {
     fetch('/services.json') // ✅ Now loading from public
@@ -11,7 +11,7 @@ const Service = () => {
   }, []);
 
   return (
-    <div className="bg-black text-white px-6 py-12">
+    <div className="bg-black text-white md:px-6 md:py-12">
       <h2 className="text-3xl font-semibold mb-4">Services</h2>
       <hr className="w-20 border-white mb-1" />
       <hr className="w-10 border-white mb-8" />

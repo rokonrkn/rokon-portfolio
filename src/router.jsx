@@ -33,4 +33,4 @@ export const router = createBrowserRouter([
       element: <Suspense fallback={<Loader />}>{route.element}</Suspense>,
     })),
   },
-]);
+]); 
